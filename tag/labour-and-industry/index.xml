@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labour and Industry | Cy Won</title>
+    <link>https://woncheongyeon.github.io/website/tag/labour-and-industry/</link>
+      <atom:link href="https://woncheongyeon.github.io/website/tag/labour-and-industry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Labour and Industry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 12:36:14 +1000</lastBuildDate>
+    <image>
+      <url>https://woncheongyeon.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Labour and Industry</title>
+      <link>https://woncheongyeon.github.io/website/tag/labour-and-industry/</link>
+    </image>
+    
+    <item>
+      <title>Sanctuary for SMEs: Static and Dynamic Effects of the SME Reservation Policy in 1980s Korea</title>
+      <link>https://woncheongyeon.github.io/website/project/santuary-ip/</link>
+      <pubDate>Fri, 29 Sep 2023 12:36:14 +1000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/project/santuary-ip/</guid>
+      <description>&lt;p&gt;This study investigates the effect of the Protection policy implemented by the Korean government in the 1980s on the competitiveness of small and medium-sized enterprises (SMEs) in the country&amp;rsquo;s manufacturing sector. The policy aimed to safeguard the market for SMEs by imposing restrictions on large factories that produced specific products. To estimate the policy&amp;rsquo;s impact, the study not only employed the difference-in-difference method but also constructed a control group of items that had been considered for protection but were ultimately not protected. By doing so, the study was able to isolate the policy&amp;rsquo;s effects from other factors that could have influenced SME’s outcome. The results of the study suggest that the Protection policy played a crucial role in enhancing the performance of SMEs in the short term, which challenges conventional wisdom. These findings indicate that a well-designed protection policy can yield positive outcomes for SMEs in the short term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Job Reallocation in Korean Manufacturing: 1984-2014</title>
+      <link>https://woncheongyeon.github.io/website/publication/second_paper/</link>
+      <pubDate>Thu, 29 Apr 2021 00:15:05 +1000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/publication/second_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

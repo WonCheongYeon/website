@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://woncheongyeon.github.io/website/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://woncheongyeon.github.io/website/publication-type/3/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://woncheongyeon.github.io/website/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://woncheongyeon.github.io/website/tag/cliometrics/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/project/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/publication_types/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/tags/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/project/biblewomen/</loc>
+    <lastmod>2023-09-29T15:40:22+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/tag/labour-and-industry/</loc>
+    <lastmod>2023-09-29T12:36:14+10:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/project/santuary-ip/</loc>
+    <lastmod>2023-09-29T12:36:14+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://woncheongyeon.github.io/website/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/project/conquer-for-jesus/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://woncheongyeon.github.io/website/publication-type/2/</loc>
@@ -19,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://woncheongyeon.github.io/website/publication/second_paper/</loc>
-    <lastmod>2021-04-29T00:15:05+10:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/publication_types/</loc>
     <lastmod>2021-04-29T00:15:05+10:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -47,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://woncheongyeon.github.io/website/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,26 +102,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://woncheongyeon.github.io/website/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://woncheongyeon.github.io/website/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://woncheongyeon.github.io/website/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -111,6 +111,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://woncheongyeon.github.io/website/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/talk/asian-australasian-society-of-labour-economics-aasle-taiwan/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://woncheongyeon.github.io/website/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

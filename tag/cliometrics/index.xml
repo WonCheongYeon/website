@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Cy Won</title>
-    <link>https://woncheongyeon.github.io/website/publication-type/3/</link>
-      <atom:link href="https://woncheongyeon.github.io/website/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
+    <title>Cliometrics | Cy Won</title>
+    <link>https://woncheongyeon.github.io/website/tag/cliometrics/</link>
+      <atom:link href="https://woncheongyeon.github.io/website/tag/cliometrics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cliometrics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Sep 2023 15:40:22 +1000</lastBuildDate>
     <image>
       <url>https://woncheongyeon.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>3</title>
-      <link>https://woncheongyeon.github.io/website/publication-type/3/</link>
+      <title>Cliometrics</title>
+      <link>https://woncheongyeon.github.io/website/tag/cliometrics/</link>
     </image>
     
     <item>
@@ -22,21 +22,20 @@
     </item>
     
     <item>
-      <title>Sanctuary for SMEs: Static and Dynamic Effects of the SME Reservation Policy in 1980s Korea</title>
-      <link>https://woncheongyeon.github.io/website/project/santuary-ip/</link>
-      <pubDate>Fri, 29 Sep 2023 12:36:14 +1000</pubDate>
-      <guid>https://woncheongyeon.github.io/website/project/santuary-ip/</guid>
-      <description>&lt;p&gt;This study investigates the effect of the Protection policy implemented by the Korean government in the 1980s on the competitiveness of small and medium-sized enterprises (SMEs) in the country&amp;rsquo;s manufacturing sector. The policy aimed to safeguard the market for SMEs by imposing restrictions on large factories that produced specific products. To estimate the policy&amp;rsquo;s impact, the study not only employed the difference-in-difference method but also constructed a control group of items that had been considered for protection but were ultimately not protected. By doing so, the study was able to isolate the policy&amp;rsquo;s effects from other factors that could have influenced SME’s outcome. The results of the study suggest that the Protection policy played a crucial role in enhancing the performance of SMEs in the short term, which challenges conventional wisdom. These findings indicate that a well-designed protection policy can yield positive outcomes for SMEs in the short term.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Conquering Korea for Jesus: Protestant Missionaries, Local Churches, and Literacy in Colonial Korea</title>
       <link>https://woncheongyeon.github.io/website/project/conquer-for-jesus/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://woncheongyeon.github.io/website/project/conquer-for-jesus/</guid>
       <description>&lt;p&gt;We study the effect of Protestantism on human capital acquisition using novel data on 234 counties and 2,478 towns in the Korean peninsula in 1930. We show that towns with a higher share of native Protestants have higher literacy rates. To establish causality, we employ the location of foreign Protestant missionaries as an instrumental variable for the presence of native Protestant churches. To study the differential effects of different missionary societies, we use a spatial regression discontinuity design, exploiting the Comity Agreement of 1909 which geographically divided Korea between missionary societies. Our results suggest that Protestantism played a crucial role in the accumulation of human capital, and that the activity of native Protestants was a key factor in the accumulation of human capital.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jesus speaks Korean: Christianity and Literacy in Colonial Korea</title>
+      <link>https://woncheongyeon.github.io/website/publication/journal-article/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/publication/journal-article/</guid>
+      <description></description>
     </item>
     
   </channel>

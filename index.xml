@@ -13,22 +13,29 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://woncheongyeon.github.io/website/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://woncheongyeon.github.io/website/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>The Holy Mother Will Set Women Free: Protestant Missionaries, Bible Women, and Women’s Rights in Colonial Korea</title>
+      <link>https://woncheongyeon.github.io/website/project/biblewomen/</link>
+      <pubDate>Fri, 29 Sep 2023 15:40:22 +1000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/project/biblewomen/</guid>
+      <description>&lt;p&gt;This study examines the impact of female missionaries and native Protestants on women&amp;rsquo;s political engagement during the colonial era in Korea, focusing on the role of female Protestants referred to as &amp;ldquo;Bible women.&amp;rdquo; By analysing data from the archive of Patriots and Veterans Affairs and information on Bible women at the county level, we assess the effect of their influence. Our results provide evidence of a positive relationship between the presence and influence of Bible women and higher levels of engagement in the independence movement during the Japanese colonial period in Korea. This research contributes to our understanding of how female Protestants played a crucial role in promoting women&amp;rsquo;s political participation in historical contexts. The findings underscore the significance of Bible women as agents of social change and empowerment for Korean women during this era.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sanctuary for SMEs: Static and Dynamic Effects of the SME Reservation Policy in 1980s Korea</title>
+      <link>https://woncheongyeon.github.io/website/project/santuary-ip/</link>
+      <pubDate>Fri, 29 Sep 2023 12:36:14 +1000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/project/santuary-ip/</guid>
+      <description>&lt;p&gt;This study investigates the effect of the Protection policy implemented by the Korean government in the 1980s on the competitiveness of small and medium-sized enterprises (SMEs) in the country&amp;rsquo;s manufacturing sector. The policy aimed to safeguard the market for SMEs by imposing restrictions on large factories that produced specific products. To estimate the policy&amp;rsquo;s impact, the study not only employed the difference-in-difference method but also constructed a control group of items that had been considered for protection but were ultimately not protected. By doing so, the study was able to isolate the policy&amp;rsquo;s effects from other factors that could have influenced SME’s outcome. The results of the study suggest that the Protection policy played a crucial role in enhancing the performance of SMEs in the short term, which challenges conventional wisdom. These findings indicate that a well-designed protection policy can yield positive outcomes for SMEs in the short term.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conquering Korea for Jesus: Protestant Missionaries, Local Churches, and Literacy in Colonial Korea</title>
+      <link>https://woncheongyeon.github.io/website/project/conquer-for-jesus/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/project/conquer-for-jesus/</guid>
+      <description>&lt;p&gt;We study the effect of Protestantism on human capital acquisition using novel data on 234 counties and 2,478 towns in the Korean peninsula in 1930. We show that towns with a higher share of native Protestants have higher literacy rates. To establish causality, we employ the location of foreign Protestant missionaries as an instrumental variable for the presence of native Protestant churches. To study the differential effects of different missionary societies, we use a spatial regression discontinuity design, exploiting the Comity Agreement of 1909 which geographically divided Korea between missionary societies. Our results suggest that Protestantism played a crucial role in the accumulation of human capital, and that the activity of native Protestants was a key factor in the accumulation of human capital.&lt;/p&gt;
 </description>
     </item>
     
@@ -232,7 +239,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-365712498&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-874395621&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +249,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-365712498&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-874395621&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -707,27 +714,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://woncheongyeon.github.io/website/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://woncheongyeon.github.io/website/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://woncheongyeon.github.io/website/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://woncheongyeon.github.io/website/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example conference paper</title>
       <link>https://woncheongyeon.github.io/website/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -752,6 +738,26 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://woncheongyeon.github.io/website/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Asian &amp; Australasian Society of Labour Economics (AASLE), Taiwan</title>
+      <link>https://woncheongyeon.github.io/website/talk/asian-australasian-society-of-labour-economics-aasle-taiwan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://woncheongyeon.github.io/website/talk/asian-australasian-society-of-labour-economics-aasle-taiwan/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
